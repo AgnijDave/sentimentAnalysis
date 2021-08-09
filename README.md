@@ -1,2 +1,2 @@
-# SentimentAnalysis
+# sentimentAnalysis
 Natural Language Processing
